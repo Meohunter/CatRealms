@@ -3,7 +3,7 @@ layout: page
 navname: About
 ---
 
-# {{ site.serverName }}
+# Catrealms
 
 Moonrise is a simple, flexible template website for Minecraft servers.
 
